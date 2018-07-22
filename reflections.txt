@@ -1,0 +1,7 @@
+hello world this is the new text doc in my first git repo
+till now we have come across the following commands
+git clone
+git -u diff 
+git log
+git init 
+git status
